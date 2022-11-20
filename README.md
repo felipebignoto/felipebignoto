@@ -9,7 +9,6 @@
 ## :dart: FullStack Developer :
   
 - :mortar_board: Exact Science Student at Federal University of Juiz de Fora;
-- :computer: ARRUMAR;
 - :cake: 19 years old;
 
 ## :globe_with_meridians: Main Stack :
