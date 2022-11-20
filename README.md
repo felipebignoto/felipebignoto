@@ -11,6 +11,14 @@
 - :mortar_board: Exact Science Student at Federal University of Juiz de Fora;
 - :cake: 19 years old;
 
+
+## :globe_with_meridians: Main Stack :
+
+<div style="display: inline_block"><br>
+ <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  
+ </div>
+
 ## :wrench: Languages and Techs :
 
 <div style="display: inline_block"><br>
