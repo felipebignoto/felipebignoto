@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Felipe Bignoto  
 
 <div align="center">
-  <a href="https://github.com/Felipe-Bignoto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Bignoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Bignoto&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/felipebignoto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipebignoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebignoto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## :dart: Developer :
@@ -32,4 +32,4 @@
 </div> 
 
 
-![Snake animation](https://github.com/Felipe-Bignoto/Felipe-Bignoto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/felipebignoto/felipebignoto/blob/output/github-contribution-grid-snake.svg)
