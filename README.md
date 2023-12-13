@@ -5,14 +5,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipebignoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebignoto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## :dart: Developer :
+## Developer :
   
 - :mortar_board: Exact Science Student at Federal University of Juiz de Fora;
 - :cake: 20 years old;
 
  
 
-## :wrench: Languages and Techs :
+## Languages and Techs :
 
 <div style="display: inline_block">
   
@@ -24,7 +24,7 @@
   
 </div>
 
-## :mailbox: Contacts :	
+## Contacts :	
  
 <div> 
   <a href="https://felipebignoto.netlify.app/" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
