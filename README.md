@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipebignoto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipebignoto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Developer :
+## Desenvolvedor :
   
 - :mortar_board: Cursando Ciências Exatas na Universidade Federal de Juiz de Fora (UFJF);
 - 📖: Estudante de Engenharia de Software na UniAcademia;
@@ -13,7 +13,7 @@
 
  
 
-## Languages and Techs :
+## Habilidades :
 
 <div style="display: inline_block">
   
@@ -27,7 +27,7 @@
   
 </div>
 
-## Contacts :	
+## Contato :	
  
 <div> 
   <a href="https://felipebignoto.netlify.app/" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
