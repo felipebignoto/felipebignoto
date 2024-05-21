@@ -9,7 +9,7 @@
   
 - :mortar_board: Cursando Ciências Exatas na Universidade Federal de Juiz de Fora (UFJF);
 - 📖: Estudante de Engenharia de Software na UniAcademia;
-- :cake: 20 anos de idade;
+- :cake: 21 anos de idade;
 
  
 
