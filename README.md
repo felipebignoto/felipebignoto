@@ -7,9 +7,9 @@
 
 ## Desenvolvedor :
   
-- :mortar_board: Cursando Ciências Exatas na Universidade Federal de Juiz de Fora (UFJF);
+- :mortar_board: Formado em Ciências Exatas na Universidade Federal de Juiz de Fora (UFJF);
 - 📖: Estudante de Engenharia de Software na UniAcademia;
-- :cake: 21 anos de idade;
+- :cake: 23 anos de idade;
 
  
 
